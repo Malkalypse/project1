@@ -1,0 +1,8 @@
+{
+  "dependencies": {},
+  "map": {
+    "js": "code/js",
+    "css": "code/css",
+    "php": "code/php"
+  }
+}

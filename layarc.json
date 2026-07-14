@@ -1,10 +1,12 @@
 {
-  "dir": "first_project",
-  "version": "1.0.0",
-  "dependencies": {},
-  "map": {
-    "js": "code/js",
-    "css": "code/css",
-    "php": "code/php"
-  }
+    "layarc_version": "0.2.2",
+    "dir": "first_project",
+    "version": "1.0.0",
+    "dependencies": [],
+    "map": {
+        "js": "js",
+        "css": "css",
+        "php": "php",
+        "_root": "code"
+    }
 }
